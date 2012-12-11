@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+# VS Folders and files
+Debug
+ipch
+
