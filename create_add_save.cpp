@@ -7,8 +7,8 @@
 #include <odb/schema-catalog.hxx>
 #include <odb/sqlite/database.hxx>
 
-#include "person.hpp"
-#include "person-odb.hxx"
+#include "person_.hpp"
+#include "person_-odb.hxx"
 
 int main()
 {
